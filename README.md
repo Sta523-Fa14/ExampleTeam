@@ -1,4 +1,4 @@
-Example
+Team 0 - R++
 =======
 
-Example repo
+Colin Rundel - rundel@gmail.com
