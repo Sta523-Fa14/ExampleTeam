@@ -1,4 +1,4 @@
 Example
 =======
 
-Example repo
+John Doe - john.doe@gmail.com
